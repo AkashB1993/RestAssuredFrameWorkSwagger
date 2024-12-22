@@ -1,0 +1,8 @@
+2024-12-22 12:15:06 INFO  [main] api.test.UserTests2 - ******************** Creating User ********************
+2024-12-22 12:15:08 INFO  [main] api.test.UserTests2 - ******************** User is created ********************
+2024-12-22 12:15:08 INFO  [main] api.test.UserTests2 - ******************** Reading User Info ********************
+2024-12-22 12:15:10 INFO  [main] api.test.UserTests2 - ******************** User info displayed  ********************
+2024-12-22 12:15:10 INFO  [main] api.test.UserTests2 - ******************** Updating User Info ********************
+2024-12-22 12:15:11 INFO  [main] api.test.UserTests2 - ******************** Updated  User Info ********************
+2024-12-22 12:15:12 INFO  [main] api.test.UserTests2 - ******************** deleting  User Info ********************
+2024-12-22 12:15:13 INFO  [main] api.test.UserTests2 - ******************** deleted  User Info ********************
